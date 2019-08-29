@@ -1,0 +1,31 @@
+_repo: Annals-of-the-Turkish-Empire-from-1591-to-1659_60151
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Fraser, Charles
+    gutenberg_agent_id: '50821'
+    url: http://www.gutenberg.org/2009/agents/50821
+creator:
+  author:
+    agent_name: Naima, Mustafa
+    birthdate: 1655
+    deathdate: 1716
+    gutenberg_agent_id: '50819'
+    url: http://www.gutenberg.org/2009/agents/50819
+    wikipedia: https://en.wikipedia.org/wiki/Mustafa_Naima
+description: Translation of Tarih-i Naima.
+gutenberg_issued: '2019-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60151'
+  lccn: '63056081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DR'
+- !lcsh 'Turkey -- History -- 1453-1683'
+- GITenberg
+title: Annals of the Turkish Empire, from 1591 to 1659
+url: http://www.gutenberg.org/ebooks/60151
